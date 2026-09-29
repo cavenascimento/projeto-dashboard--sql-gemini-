@@ -1,4 +1,4 @@
-# 📊 Executive Dashboard com Power BI, SQL & Inteligência Artificial (Gemini)
+# 📊 Executive Dashboard com Power BI, HTML , SQL & Inteligência Artificial (Gemini)
 
 ## 🎯 Sobre o Projeto
 Este projeto consiste no desenvolvimento de um **Dashboard Executivo de Alto Nível**, construído através de um fluxo completo de tratamento, modelagem e análise de dados. O objetivo principal foi transformar dados brutos e dispersos em uma ferramenta visual e estratégica para a diretoria, apoiando a tomada de decisões rápidas e assertivas.
